@@ -1,6 +1,9 @@
 {
     "name": "@pugavkomm/test",
     "private": true,
+    "publishConfig": {
+        "access": "public"
+    },
     "type": "module",
     "devDependencies": {
         "lerna": "^4.0.0"
