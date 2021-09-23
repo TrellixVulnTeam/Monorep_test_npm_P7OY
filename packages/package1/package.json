@@ -1,0 +1,26 @@
+{
+  "name": "@pugavkomm/package1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Pugavkomm <slavapugavko2@gmail.com>",
+  "homepage": "https://github.com/Pugavkomm/Monorep_test_npm#readme",
+  "license": "MIT",
+  "main": "lib/package1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pugavkomm/Monorep_test_npm.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Pugavkomm/Monorep_test_npm/issues"
+  }
+}
