@@ -1,6 +1,6 @@
 {
     "name": "@pugavkomm/main",
-    "version": "0.1.7",
+    "version": "1.0.0",
     "description": "",
     "publishConfig": {
         "access": "public"
