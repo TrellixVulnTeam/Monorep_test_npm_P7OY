@@ -1,12 +1,13 @@
 {
-  "name": "@pugavkomm/main",
-  "version": "0.1.2",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "MIT",
-  "gitHead": "0bd5bafe8b8873373b1f7a165f692faccc122d60"
+    "name": "@pugavkomm/main",
+    "version": "0.1.2",
+    "description": "",
+    "publishConfig": { "access": "public" },
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "gitHead": "2152d350fb8702e6c160577e254a40f0479518e5"
 }

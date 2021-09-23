@@ -5,6 +5,7 @@
     "author": "Pugavkomm <slavapugavko2@gmail.com>",
     "homepage": "https://github.com/Pugavkomm/Monorep_test_npm#readme",
     "license": "MIT",
+    "publishConfig": { "access": "public" },
     "main": "lib/plug2.js",
     "directories": {
         "lib": "lib",
@@ -23,5 +24,7 @@
     "bugs": {
         "url": "https://github.com/Pugavkomm/Monorep_test_npm/issues"
     },
-    "gitHead": "0bd5bafe8b8873373b1f7a165f692faccc122d60"
+    "gitHead": "2152d350fb8702e6c160577e254a40f0479518e5"
+
+
 }

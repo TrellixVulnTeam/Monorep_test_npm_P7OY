@@ -1,27 +1,28 @@
 {
-  "name": "@pugavkomm/plug1",
-  "version": "0.1.2",
-  "description": "> TODO: description",
-  "author": "Pugavkomm <slavapugavko2@gmail.com>",
-  "homepage": "https://github.com/Pugavkomm/Monorep_test_npm#readme",
-  "license": "MIT",
-  "main": "lib/plug1.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Pugavkomm/Monorep_test_npm.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/Pugavkomm/Monorep_test_npm/issues"
-  },
-  "gitHead": "0bd5bafe8b8873373b1f7a165f692faccc122d60"
+    "name": "@pugavkomm/plug1",
+    "version": "0.1.2",
+    "description": "> TODO: description",
+    "author": "Pugavkomm <slavapugavko2@gmail.com>",
+    "homepage": "https://github.com/Pugavkomm/Monorep_test_npm#readme",
+    "license": "MIT",
+    "publishConfig": { "access": "public" },
+    "main": "lib/plug1.js",
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pugavkomm/Monorep_test_npm.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    },
+    "bugs": {
+        "url": "https://github.com/Pugavkomm/Monorep_test_npm/issues"
+    },
+    "gitHead": "2152d350fb8702e6c160577e254a40f0479518e5"
 }
