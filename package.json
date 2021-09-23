@@ -1,7 +1,23 @@
 {
-  "name": "root",
+  "name": "@pugavkomm/test_package",
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
-  }
+  },
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pugavkomm/Monorep_test_npm.git"
+  },
+  "author": "Pugavkomm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pugavkomm/Monorep_test_npm/issues"
+  },
+  "homepage": "https://github.com/Pugavkomm/Monorep_test_npm#readme"
 }
