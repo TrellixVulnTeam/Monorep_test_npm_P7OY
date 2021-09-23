@@ -9,3 +9,4 @@ const plug2 = require('plug2');
 
 // TODO: DEMONSTRATE API
 ```
+11
