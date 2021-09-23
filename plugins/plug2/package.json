@@ -1,26 +1,27 @@
 {
-  "name": "@pugavkomm/plug2",
-  "version": "0.1.0",
-  "description": "> TODO: description",
-  "author": "Pugavkomm <slavapugavko2@gmail.com>",
-  "homepage": "https://github.com/Pugavkomm/Monorep_test_npm#readme",
-  "license": "MIT",
-  "main": "lib/plug2.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Pugavkomm/Monorep_test_npm.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/Pugavkomm/Monorep_test_npm/issues"
-  }
+    "name": "@pugavkomm/plug2",
+    "version": "0.1.0",
+    "description": "Description1 ",
+    "author": "Pugavkomm <slavapugavko2@gmail.com>",
+    "homepage": "https://github.com/Pugavkomm/Monorep_test_npm#readme",
+    "license": "MIT",
+    "main": "lib/plug2.js",
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pugavkomm/Monorep_test_npm.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    },
+    "bugs": {
+        "url": "https://github.com/Pugavkomm/Monorep_test_npm/issues"
+    },
+    "gitHead": "5c7d43d8d6ae7497f8bced8f85fa65c8f39ad8fa"
 }
