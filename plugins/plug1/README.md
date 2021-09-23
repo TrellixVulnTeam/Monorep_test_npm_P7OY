@@ -1,11 +1,11 @@
-# `package1`
+# `plug1`
 
 > TODO: description
 
 ## Usage
 
 ```
-const package1 = require('package1');
+const plug1 = require('plug1');
 
 // TODO: DEMONSTRATE API
 ```

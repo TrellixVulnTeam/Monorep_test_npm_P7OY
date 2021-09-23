@@ -1,11 +1,11 @@
 {
-  "name": "@pugavkomm/package1",
+  "name": "@pugavkomm/plug1",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "Pugavkomm <slavapugavko2@gmail.com>",
   "homepage": "https://github.com/Pugavkomm/Monorep_test_npm#readme",
   "license": "MIT",
-  "main": "lib/package1.js",
+  "main": "lib/plug1.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
